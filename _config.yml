@@ -25,7 +25,7 @@ tagline: Collection of Personal Notes # it will display as the sub-title
 description: >- # used by seo meta and the atom feed
   Short writings on topics that I find interesting
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://jcheng.online"
+url: "https://jcheng.pro"
 
 github:
   username: JasonCheng1 # change to your github username
